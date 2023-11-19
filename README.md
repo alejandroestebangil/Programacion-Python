@@ -1,3 +1,3 @@
 # Programacion-Python
 
-Multiprocessing, Multithreading, simple... PYTHON Exercices.
+Multiprocessing, Multithreading, Simple... PYTHON Exercices.
